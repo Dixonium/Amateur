@@ -11,7 +11,7 @@ This repository contains a variety of projects, each with its own unique focus a
 ...and more!
 
 ## Contact
-If you’re an employer interested in my work or a developer with questions or suggestions, feel free to reach out to me. You can contact me at [dixodev@gmail.com].
+If you’re an employer interested in my work or a developer with questions or suggestions, feel free to reach out to me. You can contact me at [dixomium@gmail.com].
 
 Thank you for visiting my repository. Enjoy exploring my projects!
 
