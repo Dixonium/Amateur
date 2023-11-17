@@ -10,6 +10,11 @@ This repository contains a variety of projects, each with its own unique focus a
 
 ...and more!
 
+## Contact
+If you’re an employer interested in my work or a developer with questions or suggestions, feel free to reach out to me. You can contact me at [dixodev@gmail.com].
+
+Thank you for visiting my repository. Enjoy exploring my projects!
+
 ## Getting Started
 
 To get started with these projects, you can clone this repository to your local machine.
