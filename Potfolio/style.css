@@ -1,0 +1,75 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.bg-video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.bg-video {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.navbar {
+    padding: 70px;
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+    backdrop-filter: blur(10px); /* Apply blur effect */
+    border-radius: 20px; /* Rounded corners */
+    margin: 20px; /* Add space around the navbar */
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 999;
+}
+
+.logo-container {
+    float: left;
+}
+
+.logo {
+    height: 50px; /* Adjust as needed */
+}
+
+.nav-links {
+    list-style: none;
+    float: right;
+}
+
+.nav-links li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #007bff;
+}
+
+.fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border-radius: 0; /* Removes rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Add shadow effect */
+}
